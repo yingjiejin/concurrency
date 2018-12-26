@@ -1,4 +1,4 @@
-package com.jyj.concurrency.immutable;
+package com.jyj.concurrency.example.immutable;
 
 import com.google.common.collect.Maps;
 import com.jyj.concurrency.annoations.ThreadSafe;
